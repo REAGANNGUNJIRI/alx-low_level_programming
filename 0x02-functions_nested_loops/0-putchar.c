@@ -2,10 +2,10 @@
 
 
 /**
- * main - print _putchar
- * written by ngigi
- * Return: (0)
+ * main - Entry point
+ * Return: always (0)
  */
+
 int main(void)
 {
 	_putchar('_')
