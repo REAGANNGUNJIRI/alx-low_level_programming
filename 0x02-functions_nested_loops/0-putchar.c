@@ -2,9 +2,9 @@
 
 
 /**
- * main - prints _putchar
- * int main(void) -main function of _putchar
- * Return:( 0 (success))
+ * main - print _putchar
+ * written by ngigi
+ * Return: (0)
  */
 int main(void)
 {
