@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal - draws a digonal line
+ * print_diagonal - draws a digonal lines according to the parameters given
  * @n: the number of times to print the diagonal line
  * Return: empty
  */
@@ -24,7 +24,7 @@ void print_diagonal(int n)
 	_putchar(32);
 	}
 	_putchar(92);
-	_putchar('\n')
+	_putchar('\n');
 	}
 	}
 }
