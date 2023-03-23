@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_numbers - print the no from 0 to 9
- * return: the no since 0 upto 9
+ * print_numbers - print the numbers since 0 upto 9
+ * Return: The numbers since 0 upto 9
  */
 
 void print_numbers(void)
