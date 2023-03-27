@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts - print a string followed by a new line to standout
+ * _puts - print a string, followed by a new line, to stdout
  * @str: string to print
  */
 
