@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
- * main - A program that prints the sizes of variuos comp types
- * Return: 0 (success)
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
  */
-
 int main(void)
-
 {
 
 printf("size of a char: %d byte(s)\n", sizeof(char));
